@@ -4,7 +4,7 @@ Software Engenier Student <br>Python Developer<br>Future AI Engineer
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=python,fastapi,java,html,css,js,mysql,git)](https://skillicons.dev)
 
-# Framworks
+# Frameworks
 [![My Skills](https://skillicons.dev/icons?i=fastapi,anaconda,spring)](https://skillicons.dev)
 
 # Tools:
