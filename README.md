@@ -5,7 +5,7 @@ Software Engenier Student <br>Python Developer<br>Future AI Engineer
 [![My Skills](https://skillicons.dev/icons?i=python,fastapi,java,html,css,js,git)](https://skillicons.dev)
 
 # Tools:
-[![My Skills](https://skillicons.dev/icons?i=pycharm,intellij,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pycharm,idea,vscode)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=GuiSantos9&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
