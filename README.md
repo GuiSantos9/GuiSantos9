@@ -5,7 +5,7 @@ Software Engenier Student <br>Python Developer<br>Future AI Agentic and MachineL
 [![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js,mysql,git)](https://skillicons.dev)
 
 # Frameworks
-[![My Skills](https://skillicons.dev/icons?i=fastapi,anaconda,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,spring)](https://skillicons.dev)
 
 # Tools:
 [![My Skills](https://skillicons.dev/icons?i=pycharm,idea,vscode)](https://skillicons.dev)
