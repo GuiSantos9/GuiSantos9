@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engenier Student <br>Python Developer<br>Future AI Agentic and MachineLearning Engineer 
+Software Engenier Student <br>Python Developer<br>Future Machine Learning and Data Engineer 
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js,mysql,git)](https://skillicons.dev)
