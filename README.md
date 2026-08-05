@@ -7,8 +7,7 @@
     Construindo soluções inteligentes na interseção entre <b>Engenharia de Dados</b>, <b>Machine Learning</b> e <b>Finanças</b>.
   </p>
 
-  <p align="center">
-    <a href="[https://linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/guilherme-augusto-dos-santos-824447302/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+ <a href="https://www.linkedin.com/in/guilherme-augusto-dos-santos-824447302/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     
   </p>
 </div>
