@@ -27,7 +27,8 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 ### 🐍 Data Science & Machine Learning
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/e6983053-7a8d-41c5-bb47-1d5bb563b46b" /> 
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/e6983053-7a8d-41c5-bb47-1d5bb563b46b" /> <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/466842c1-b8c8-42dd-aab6-15c1b842bd93" />
+
 
 ### 💻 Linguagens & Desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,js)](https://skillicons.dev)
