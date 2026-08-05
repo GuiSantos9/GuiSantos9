@@ -40,7 +40,8 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,git,github)](https://skillicons.dev)
 
 ### 🧰 IDEs & Editores
-[![My Skills](https://skillicons.dev/icons?i=pycharm,idea,vscode,cursor)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pycharm,idea,vscode)](https://skillicons.dev) <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/0c3bd206-5d07-4f95-b33b-6813bb070af6" />
+
 
 ---
 
