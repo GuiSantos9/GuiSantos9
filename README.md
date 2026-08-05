@@ -57,17 +57,3 @@
   <img src="https://streak-stats.demolab.com/?user=GuiSantos9&theme=dark&hide_border=false" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GuiSantos9&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</div>
-
----
-
-<div align="center">
-  👁️ Visualizações do Perfil: 
-  <img src="https://komarev.com/ghpvc/?username=GuiSantos9&icon=0&color=0" align="center" />
-</div>
