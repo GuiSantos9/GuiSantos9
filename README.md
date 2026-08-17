@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Guilherme%20Santos&fontSize=50&animation=fadeIn" width="100%" />
 
-  <h3>🎓 Estudante de Engenharia de Software | 📊 Data & Machine Learning Enthusiast</h3>
+  <h3>🎓 Estudante de Engenharia de Software | 📊 Data Science & Machine Learning Enthusiast</h3>
 
   <p>
     Construindo soluções inteligentes na interseção entre <b>Engenharia de Dados</b>, <b>Machine Learning</b> e <b>Finanças</b>.
