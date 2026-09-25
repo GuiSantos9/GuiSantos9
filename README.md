@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Guilherme%20Santos&fontSize=50&animation=fadeIn" width="100%" />
 
-  <h3>🎓 Estudante de Engenharia de Software | 📊 Data Science & Machine Learning Enthusiast</h3>
+  <h3>🎓 Estudante de Engenharia de Software | 📊 AI Engineering, Data Science & Machine Learning Enthusiast</h3>
 
   <p>
     Construindo soluções inteligentes na interseção entre <b>Engenharia de Dados</b>, <b>Machine Learning</b> e <b>Finanças</b>.
@@ -18,7 +18,7 @@
 
 - 🎓 Graduando em **Engenharia de Software**.
 - 💡 Apaixonado pelo ciclo completo dos dados: desde a extração e modelagem até a criação de pipelines e modelos preditivos.
-- 🎯 Foco de carreira em **Data Engineering**, **Machine Learning/IA** e aplicações no setor financeiro.
+- 🎯 Foco de carreira em  **AI Engineer** **Data Science**, **Machine Learning** e aplicações no setor financeiro.
 - ⚙️ Atualmente aprofundando conhecimentos na manipulação de dados com ecossistema Python e bancos SQL/NoSQL.
 
 ---
